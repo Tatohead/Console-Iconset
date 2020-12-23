@@ -1,18 +1,18 @@
 # Console-Iconset
 Original set of icons on existing game consoles and some variants.
 ##### Disclaimer:
-<sub>The objects may apppear slightly off compared to the physical object due to lack of references. Not all consoles/variants will be listed since they have yet to be made. Some are enlisted together due to running the same software or language. I will not post them on other sites for personal reasons. However, feel free to use these icons just don't claim them as your own work is all I ask.</sub>
+<sub>The objects may apppear slightly off compared to the physical object due to lack of references. Not all consoles/variants will be listed since they have yet to be made. Some are enlisted together due to running the same software or language. I will not post them on other sites for personal reasons. However, feel free to use these icons in projects just don't claim them as your own work is all I ask.</sub>
 
 ---
 ## Table of Contents  
 * [3DO](#3DO)
 * [Chip-8](#Chip8)
 * [Famicom/NES](#FamicomNES)
-* [Game & Watch](#Game-&-Watch)
+* [Game & Watch](#Game--Watch)
 * [Nintendo Switch](#Nintendo-Switch)
 * [Sega Genesis/MegaDrive](#Sega-GenesisMegaDrive)
 * [Pocket Chip](#Pocket-CHIP)
-* [Pokemini](#Pokemini)
+* [Pokemon mini](#Pokemon-mini)
 * [Vectrex](#Vectrex)
 * [Watara Supervision](#Watara-Supervision)
 * [Wonderswan](#Wonderswan)
@@ -24,10 +24,10 @@ Original set of icons on existing game consoles and some variants.
 
 | Icon | Description |
 |:--:|:--:|
-| <img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Panasonic%20FZ-1%20REAL.png"> | Panasonic FZ-1 R.E.A.L. 3DO Interactive Multiplayer|
-| <img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Panasonic%20FZ-10%20REAL.png"> | Panasonic FZ-10 R.E.A.L. 3DO Interactive Multiplayer |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Goldstar.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Goldstarb.png">| Goldstar 3DO Interactive Multiplayer System |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Sanyo%20TRY.png">|Sanyo TRY 3DO Interactive Multiplayer|
+| <img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Panasonic%20FZ-1%20REAL.png"> | Panasonic FZ-1 R.E.A.L. 3DO |
+| <img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Panasonic%20FZ-10%20REAL.png"> | Panasonic FZ-10 R.E.A.L. 3DO |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Goldstar.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Goldstarb.png">| Goldstar 3DO|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Sanyo%20TRY.png">|Sanyo TRY 3DO|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Panasonic%20Robo.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Panasonic%20Robo%20Hotel.png">| Panasonic ROBO 3DO |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Blaster.png">| Creative 3DO Blaster |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Goldstar%20Alive.png">| Goldstar 3DO Alive |
@@ -54,9 +54,9 @@ Original set of icons on existing game consoles and some variants.
 ### Famicom/NES
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Famicom-NES/Famicon.png">| Famicom |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Famicom-NES/FamiconFDS.png">| Famicom Disk system |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Famicom-NES/NES.png">| NES<br /><sub>Nintendo Entertainment System</sub> |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicon.png">| Famicom |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/FamiconFDS.png">| Famicom Disk system |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/NES.png">| NES<br /><sub>Nintendo Entertainment System</sub> |
 
 ### Game & Watch
 <table>
@@ -64,19 +64,19 @@ Original set of icons on existing game consoles and some variants.
 
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Game%20%26%20Watch/Game%26Watch.png">| Ball |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Game%20%26%20Watch/Game%26Watch2.png">| Flagman |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Game%20%26%20Watch/Game%26Watch3.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Game%20%26%20Watch/Game%26Watch3b.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Game%20%26%20Watch/Game%26Watch3c.png">| Vermin |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Game%20%26%20Watch/Game%26Watch4.png">| Fire |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Game%20%26%20Watch/Game%26Watch5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Game%20%26%20Watch/Game%26Watch5b.png">| Judge |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Game%20%26%20Watch/Game%26Watch.png">| Ball |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Game%20%26%20Watch/Game%26Watch2.png">| Flagman |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Game%20%26%20Watch/Game%26Watch3.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Game%20%26%20Watch/Game%26Watch3b.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Game%20%26%20Watch/Game%26Watch3c.png">| Vermin |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Game%20%26%20Watch/Game%26Watch4.png">| Fire |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Game%20%26%20Watch/Game%26Watch5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Game%20%26%20Watch/Game%26Watch5b.png">| Judge |
 
 </td><td>
 
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Game%20%26%20Watch/Game%26WatchG.png">| Manhole |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Game%20%26%20Watch/Game%26WatchG2.png">| Helmet |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Game%20%26%20Watch/Game%26WatchG3.png">| Lion |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Game%20%26%20Watch/Game%26WatchG.png">| Manhole |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Game%20%26%20Watch/Game%26WatchG2.png">| Helmet |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Game%20%26%20Watch/Game%26WatchG3.png">| Lion |
 </td></table>
 
 ### Nintendo Switch
@@ -85,20 +85,20 @@ Original set of icons on existing game consoles and some variants.
 
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Switch/Switch.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Switch/Switch2.png">| Nintendo Switch |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/Switch.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/Switch2.png">| Switch |
 
 </td><td>
 
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Switch/SwitchLite1.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Switch/SwitchLite1b.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Switch/SwitchLite2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Switch/SwitchLite2b.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Switch/SwitchLite3.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Switch/SwitchLite3b.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Switch/SwitchLite4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Switch/SwitchLite4b.png">| Nintendo Switch Lite |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Switch/SwitchLite5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Switch/SwitchLite5b.png">| Nintendo Switch Lite <br /><sub>(Pokémon: Zacian and Zamazenta Edition)</sub> |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite1.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite1b.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite2b.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite3.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite3b.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite4b.png">| Switch Lite |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite5b.png">| Switch Lite <br /><sub>(Pokémon:  <br />Zacian and Zamazenta Edition)</sub> |
 
 </td><td>
 
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Switch/Switch%20Joysticks.png">| Joystick |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/Switch%20Joysticks.png">| Joystick |
 </td></table>
 
 ### Sega Genesis/MegaDrive
@@ -123,10 +123,10 @@ Original set of icons on existing game consoles and some variants.
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Pocket%20CHIP/Pocketchip.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Pocket%20CHIP/PocketChip%20PICO-8.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Pocket%20CHIP/PocketChip%20TIC-80.png">| Pocket C.H.I.P <br /> <sub>(From left to right: Boot logo, Pico-8, and Tic-80.)</sub> |
 
-### Pokemini
+### Pokemon mini
 | Icon | Description |
 | :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Pokemini/Pokemini.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Pokemini/Pokeminib.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Pokemini/Pokeminic.png">| Pokemini |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Pokemon%20mini/Pokemini.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Pokemon%20mini/Pokeminib.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Pokemon%20mini/Pokeminic.png">| Pokemon mini |
 
 ### Vectrex
 | Icon | Description |
@@ -136,10 +136,10 @@ Original set of icons on existing game consoles and some variants.
 ### Watara Supervision
 | Icon | Description |
 | :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%209205.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%209205b.png">| Supervision Model 9205 |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%209205.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%209205b.png">| Supervision Model 9205 <br /> <sub>(Known as, Quickshot Supervision in UK)</sub> |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%20Tai-Kerr%20Boy.png">| Supervision Model 9205 Tai-Kerr Boy |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%20Vini-Spil.png">| Supervision Model 9205 Vini-Spil.png |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%209600.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%209600b.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%209600c.png">| Supervision Model 9600 |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%209600.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%209600b.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%209600c.png">| Supervision Model 9600 <br /> <sub>(Known as, Magnum)</sub>|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%20GB-2000.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%20GB-2000b.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%20GB-2000c.png">| Supervision Model GB-2000 |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Watara%20Supervision/Watara%20SV-100.png">| Supervision Model SV-100|
 
