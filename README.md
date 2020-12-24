@@ -65,8 +65,8 @@ Original set of icons on existing game consoles and some variants.
 
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicom%20controller.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicom%20controllerb.png">| Famicom Controller |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/NES%20controllerb.png">| NES controller |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicon%20controller.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicon%20controllerb.png">| Famicom Controller |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/NES%20controller.png">| NES controller |
 </td></table>
 
 ### Game & Watch
