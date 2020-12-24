@@ -1,7 +1,7 @@
 # Console-Iconset
 Original set of icons on existing game consoles and some variants.
 ##### Disclaimer:
-<sub>The objects may apppear slightly off compared to the physical object due to lack of references. Not all consoles/variants will be listed since they have yet to be made. Some are enlisted together due to running the same software or language. I will not post them on other sites for personal reasons. However, feel free to use these icons in projects just don't claim them as your own work is all I ask.</sub>
+<sub>The objects may apppear slightly off compared to the physical object due to lack of references. Not all consoles/variants will be listed since they have yet to be made. Some are enlisted together due to running the same software or language. I will not post them on other sites for personal reasons. However, feel free to use these icons in projects just don't claim the icons as your own work is all I ask.</sub>
 
 ---
 ## Table of Contents  
@@ -52,11 +52,22 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Chip-8/Chip-8%20Telemac%20Microcomputer.png">| Telemac Microcomputer |
 
 ### Famicom/NES
+<table>
+<tr><th>Console</th><th>Controller</th></tr><td>
+
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicon.png">| Famicom |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/FamiconFDS.png">| Famicom Disk system |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/NES.png">| NES<br /><sub>Nintendo Entertainment System</sub> |
+
+</td><td>
+
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicom%20controller.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicom%20controllerb.png">| Famicom Controller |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/NES%20controllerb.png">| NES controller |
+</td></table>
 
 ### Game & Watch
 <table>
@@ -92,7 +103,7 @@ Original set of icons on existing game consoles and some variants.
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite1.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite1b.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite2b.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite3.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite3b.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite4b.png">| Switch Lite |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite5b.png">| Switch Lite <br /><sub>(Pokémon:  <br />Zacian and Zamazenta Edition)</sub> |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Switch/SwitchLite5b.png">| Switch Lite <br /><sub>Pokémon:  <br />Zacian and Zamazenta</sub> |
 
 </td><td>
 
