@@ -1,6 +1,6 @@
 # Console-Iconset
 Original set of icons on existing game consoles and some variants.
-##### Disclaimer:
+##### Notice:
 <sub>The objects may apppear slightly off compared to the physical object due to lack of references. Not all consoles/variants will be listed since they have yet to be made. Some are enlisted together due to running the same software or language. I will not post them on other sites for personal reasons. However, feel free to use these icons in projects just don't claim the icons as your own work is all I ask.</sub>
 
 ---
@@ -24,7 +24,7 @@ Original set of icons on existing game consoles and some variants.
 
 | Icon | Description |
 |:--:|:--:|
-| <img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Panasonic%20FZ-1%20REAL.png"> | Panasonic FZ-1 R.E.A.L. 3DO |
+| <img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Panasonic%20FZ-1%20REAL.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Panasonic%20FZ-1%20REALb.png">  | Panasonic FZ-1 R.E.A.L. 3DO |
 | <img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Panasonic%20FZ-10%20REAL.png"> | Panasonic FZ-10 R.E.A.L. 3DO |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Goldstar.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Goldstarb.png">| Goldstar 3DO|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Sanyo%20TRY.png">|Sanyo TRY 3DO|
@@ -60,6 +60,7 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicon.png">| Famicom |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/FamiconFDS.png">| Famicom Disk system |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/NES.png">| NES<br /><sub>Nintendo Entertainment System</sub> |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NES.png">| Sharp C1 NES TV <br /><sub>14C-C1F-W-R or 19C-C1F-W</sub>|
 
 </td><td>
 
@@ -67,6 +68,7 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicon%20controller.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicon%20controllerb.png">| Famicom Controller |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/NES%20controller.png">| NES controller |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NES%20controller.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NES%20controllerb.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NES%20controllerc.png">| Sharp NES controller |
 </td></table>
 
 ### Game & Watch
@@ -175,3 +177,4 @@ Original set of icons on existing game consoles and some variants.
 * Console Database [[1]](https://www.consoledatabase.com/)
 * Video Game Console Library [[2]](http://www.videogameconsolelibrary.com/index.html)
 * In The Attic [[3]](http://www.intheattic.co.uk/reviews.htm)
+* Monochrome Effect [[4]](https://monochromeeffect.org/JVCC/)
