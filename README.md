@@ -9,13 +9,16 @@ Original set of icons on existing game consoles and some variants.
 * [Chip-8](#Chip8)
 * [Famicom/NES](#FamicomNES)
 * [Game & Watch](#Game--Watch)
+* [Gameboy Advance](#Gameboy-Advance)
 * [Nintendo Switch](#Nintendo-Switch)
 * [Sega Genesis/MegaDrive](#Sega-GenesisMegaDrive)
+* [SNES](#SNES)
 * [Pocket Chip](#Pocket-CHIP)
 * [Pokemon mini](#Pokemon-mini)
 * [Vectrex](#Vectrex)
 * [Watara Supervision](#Watara-Supervision)
 * [Wonderswan](#Wonderswan)
+* [Xbox](#Xbox)
 * [Credits](#Credits)
 ---
 ### 3DO
@@ -92,6 +95,12 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Game%20%26%20Watch/Game%26WatchG3.png">| Lion |
 </td></table>
 
+### Gameboy Advance
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp2.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp3.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp4.png">| Gameboy Sp |
+
+
 ### Nintendo Switch
 <table>
 <tr><th>Nintendo Switch</th><th>Nintendo Switch Lite</th><th>Joystick</th></tr><td>
@@ -130,6 +139,11 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Sega%20Genesis%20-%20Mega%20Drive/Genesis32X.png">| Sega 32X/Super 32X |
 </td></table>
+
+### SNES
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/SNES/SNES.png">| SNES <br /> <sub>Super Nintendo <br /> Entertainment</sub> |
 
 ### Pocket CHIP
 | Icon | Description |
@@ -170,6 +184,11 @@ Original set of icons on existing game consoles and some variants.
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Wonderswan/Wonder%20Swan%20Color.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Wonderswan/Wonder%20Swan%20Color2.png">| Wonderswan Color |
 </td></table>
+
+### Xbox
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Microsoft/Xbox%20original/xbox.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Microsoft/Xbox%20original/xboxb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Microsoft/Xbox%20original/xboxc.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Microsoft/Xbox%20original/xboxd.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Microsoft/Xbox%20original/xboxe.png">| Xbox <br /><sub>original</sub>|
 
 ---
 ### Credits
