@@ -98,7 +98,7 @@ Original set of icons on existing game consoles and some variants.
 ### Gameboy Advance
 | Icon | Description |
 | :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp2.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp3.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp4.png">| Gameboy Sp |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp2.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp3.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp4.png">| Gameboy Sp |
 
 
 ### Nintendo Switch
@@ -143,7 +143,7 @@ Original set of icons on existing game consoles and some variants.
 ### SNES
 | Icon | Description |
 | :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/SNES/SNES.png">| SNES <br /> <sub>Super Nintendo <br /> Entertainment</sub> |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/SNES/SNES.png">| SNES <br /> <sub>Super Nintendo Entertainment <br /> System</sub> |
 
 ### Pocket CHIP
 | Icon | Description |
