@@ -64,6 +64,7 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/FamiconFDS.png">| Famicom Disk system |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/NES.png">| NES<br /><sub>Nintendo Entertainment System</sub> |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NES.png">| Sharp C1 NES TV <br /><sub>14C-C1F-W-R or 19C-C1F-W</sub>|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NESb.png">| Sharp Nintendo Television <br /><sub>19SV111 or 19SC111</sub>|
 
 </td><td>
 
@@ -98,7 +99,7 @@ Original set of icons on existing game consoles and some variants.
 ### Gameboy Advance
 | Icon | Description |
 | :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp2.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp3.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp4.png">| Gameboy Sp |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp6.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp3.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp5.png">| Gameboy Sp |
 
 
 ### Nintendo Switch
