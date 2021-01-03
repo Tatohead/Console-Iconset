@@ -6,10 +6,14 @@ Original set of icons on existing game consoles and some variants.
 ---
 ## Table of Contents  
 * [3DO](#3DO)
+* [3DS/2DS](#3DS2DS)
 * [Chip-8](#Chip8)
 * [Famicom/NES](#FamicomNES)
+* [FM-Towns](#FMTowns)
+* [Gamate](#Gamate)
 * [Game & Watch](#Game--Watch)
 * [Gameboy Advance](#Gameboy-Advance)
+* [MS-DOS](#MSDOS)
 * [Nintendo Switch](#Nintendo-Switch)
 * [Sega Genesis/MegaDrive](#Sega-GenesisMegaDrive)
 * [SNES](#SNES)
@@ -48,11 +52,17 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/3DO/3DO%20Goldstar%20Alive%20II%20Controller.png">| Goldstar Alive Controller |
 </td></table>
 
+### 3DS/2DS
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DS.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSc.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSd.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSe.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSf.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSi.png">| 2DS |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSj.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSh.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSg.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSk.png">| 2DS <br /><sub> From Top left - Bottom right: <br />Disney, Crystal Green/Yellow, <br /> and Sun & Moon edition</sub>|
+
 ### Chip-8
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Chip-8/Chip-8%20Cosmac%20VIP.png">| Cosmac VIP |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Chip-8/Chip-8%20Telemac%20Microcomputer.png">| Telemac Microcomputer |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Cosmac%20VIP.png">| Cosmac VIP |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Telemac%20Microcomputer.png">| Telemac Microcomputer |
 
 ### Famicom/NES
 <table>
@@ -74,6 +84,18 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/NES%20controller.png">| NES controller |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NES%20controller.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NES%20controllerb.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NES%20controllerc.png">| Sharp NES controller |
 </td></table>
+
+### FM-Towns
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/FM%20Towns/Fujitsu%20FM%8Towns%202F.png">| Fujitsu FM-Towns 2F |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/FM%20Towns/Fujitsu%20FM%8Towns.png">| Fujitsu FM-Towns |
+
+### Gamate
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Gamate/Gamate.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Gamate/Gamate2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Gamate/Gamate3.png">| Gamate |
+
 
 ### Game & Watch
 <table>
@@ -101,6 +123,10 @@ Original set of icons on existing game consoles and some variants.
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp6.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp3.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp5.png">| Gameboy Sp |
 
+### MS-DOS
+| Icon | Description |
+|:--:|:--:|
+||<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/MS%20DOS/MS8%Dos%20IBM.png">| IBM PC DOS |
 
 ### Nintendo Switch
 <table>
