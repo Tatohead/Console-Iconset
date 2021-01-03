@@ -7,13 +7,13 @@ Original set of icons on existing game consoles and some variants.
 ## Table of Contents  
 * [3DO](#3DO)
 * [3DS/2DS](#3DS2DS)
-* [Chip-8](#Chip8)
+* [Chip-8](#Chip-8)
 * [Famicom/NES](#FamicomNES)
-* [FM-Towns](#FMTowns)
+* [FM-Towns](#FM-Towns)
 * [Gamate](#Gamate)
 * [Game & Watch](#Game--Watch)
 * [Gameboy Advance](#Gameboy-Advance)
-* [MS-DOS](#MSDOS)
+* [MS-DOS](#MS-DOS)
 * [Nintendo Switch](#Nintendo-Switch)
 * [Sega Genesis/MegaDrive](#Sega-GenesisMegaDrive)
 * [SNES](#SNES)
@@ -88,8 +88,8 @@ Original set of icons on existing game consoles and some variants.
 ### FM-Towns
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/FM%20Towns/Fujitsu%20FM%8Towns%202F.png">| Fujitsu FM-Towns 2F |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/FM%20Towns/Fujitsu%20FM%8Towns.png">| Fujitsu FM-Towns |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/FM%20Towns/Fujitsu%20FM-Towns%202F.png">| Fujitsu FM-Towns 2F |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/FM%20Towns/Fujitsu%20FM-Towns.png">| Fujitsu FM-Towns |
 
 ### Gamate
 | Icon | Description |
@@ -126,7 +126,7 @@ Original set of icons on existing game consoles and some variants.
 ### MS-DOS
 | Icon | Description |
 |:--:|:--:|
-||<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/MS%20DOS/MS8%Dos%20IBM.png">| IBM PC DOS |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/MS%20DOS/MS-Dos%20IBM.png">| IBM PC DOS |
 
 ### Nintendo Switch
 <table>
