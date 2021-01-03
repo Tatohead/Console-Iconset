@@ -126,7 +126,7 @@ Original set of icons on existing game consoles and some variants.
 ### MS-DOS
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/MS%20DOS/MS-Dos%20IBM.png">| IBM PC DOS |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/MS%20DOS/MS-Dos%20IBM.png">| IBM PC DOS <br /><sub>Model 5150</sub> |
 
 ### Nintendo Switch
 <table>
