@@ -70,19 +70,24 @@ Original set of icons on existing game consoles and some variants.
 
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicon.png">| Famicom |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/FamiconFDS.png">| Famicom Disk system |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicom.png">| Famicom |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/FamicomFDS.png">| Famicom Disk system |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/NES.png">| NES<br /><sub>Nintendo Entertainment System</sub> |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NES.png">| Sharp C1 NES TV <br /><sub>14C-C1F-W-R or 19C-C1F-W</sub>|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NESb.png">| Sharp Nintendo Television <br /><sub>19SV111 or 19SC111</sub>|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Nintendo%20AV%20Famicom.png">| Nintendo AV Famicom <br /><sub>HVC-101</sub>|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Nintendo%20AV%20Famicomb.png">| Nintendo AV Famicom <br /><sub>NES-101</sub>|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20Famicombox.png">| Sharp Famicombox|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Nintendo%20M82.png">| Nintendo M82 |
 
 </td><td>
 
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicon%20controller.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicon%20controllerb.png">| Famicom Controller |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicom%20controller.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Famicom%20controllerb.png">| Famicom Controller |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/NES%20controller.png">| NES controller |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NES%20controller.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NES%20controllerb.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Sharp%20NES%20controllerc.png">| Sharp NES controller |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Famicom-NES/Nintendo%20AV%20Famicom%20Controller.png">| Nintendo AV <br /> Famicom Controller |
 </td></table>
 
 ### FM-Towns
