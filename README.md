@@ -12,11 +12,12 @@ Original set of icons on existing game consoles and some variants.
 * [FM-Towns](#FM-Towns)
 * [Gamate](#Gamate)
 * [Game & Watch](#Game--Watch)
+* [Gameboy/Gameboy Color](#GameboyGameboy-Color)
 * [Gameboy Advance](#Gameboy-Advance)
 * [MS-DOS](#MS-DOS)
 * [Nintendo Switch](#Nintendo-Switch)
 * [Sega Genesis/MegaDrive](#Sega-GenesisMegaDrive)
-* [Sinclair ZX81](#SinclairZX81)
+* [Sinclair ZX81](#Sinclair-ZX81)
 * [SNES](#SNES)
 * [Ti-99](#Ti-99)
 * [Pocket Chip](#Pocket-CHIP)
@@ -125,6 +126,11 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Game%20%26%20Watch/Game%26WatchG3.png">| Lion |
 </td></table>
 
+### Gameboy/Gameboy Color
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc3.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GBA/Gameboy%20Sp.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc6.png">| Gameboy color|
+
 ### Gameboy Advance
 | Icon | Description |
 | :--: |:--:|
@@ -184,7 +190,7 @@ Original set of icons on existing game consoles and some variants.
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/SNES/SNES.png">| SNES <br /> <sub>Super Nintendo Entertainment <br /> System</sub> |
 
-###Ti-99
+### Ti-99
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Ti-99/ti-99.png">| Ti-99 |
