@@ -16,7 +16,9 @@ Original set of icons on existing game consoles and some variants.
 * [MS-DOS](#MS-DOS)
 * [Nintendo Switch](#Nintendo-Switch)
 * [Sega Genesis/MegaDrive](#Sega-GenesisMegaDrive)
+* [Sinclair ZX81](#SinclairZX81)
 * [SNES](#SNES)
+* [Ti-99](#Ti-99)
 * [Pocket Chip](#Pocket-CHIP)
 * [Pokemon mini](#Pokemon-mini)
 * [Vectrex](#Vectrex)
@@ -172,10 +174,20 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Sega%20Genesis%20-%20Mega%20Drive/Genesis32X.png">| Sega 32X/Super 32X |
 </td></table>
 
+### Sinclair ZX81
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/ZX81/SinclairZX81.png">| Sinclair ZX81 |
+
 ### SNES
 | Icon | Description |
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/SNES/SNES.png">| SNES <br /> <sub>Super Nintendo Entertainment <br /> System</sub> |
+
+###Ti-99
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Ti-99/ti-99.png">| Ti-99 |
 
 ### Pocket CHIP
 | Icon | Description |
@@ -188,9 +200,19 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Pokemon%20mini/Pokemini.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Pokemon%20mini/Pokeminib.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/Pokemon%20mini/Pokeminic.png">| Pokemon mini |
 
 ### Vectrex
+<table>
+<tr><th>Console</th><th>Controller</th></tr><td>
+
 | Icon | Description |
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Vectrex/Vectrex.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Vectrex/Vectrex2.png">| Vectrex <br /> <sub>(Includes boot logo)</sub>|
+
+</td><td>
+
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Vectrex/Vectrexcontroller.png">| Vectrex controller |
+</td></table>
 
 ### Watara Supervision
 | Icon | Description |
