@@ -129,7 +129,8 @@ Original set of icons on existing game consoles and some variants.
 ### Gameboy/Gameboy Color
 | Icon | Description |
 | :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc3.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc6.png">| Gameboy color|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gb.png">| Gameboy |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc3.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc6.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc7.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc8.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/GB/gbc9.png">| Gameboy color|
 
 ### Gameboy Advance
 | Icon | Description |
@@ -198,7 +199,7 @@ Original set of icons on existing game consoles and some variants.
 ### Pocket CHIP
 | Icon | Description |
 | :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Pocket%20CHIP/Pocketchip.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Pocket%20CHIP/PocketChip%20PICO-8.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Pocket%20CHIP/PocketChip%20TIC-80.png">| Pocket C.H.I.P <br /> <sub>(From left to right: Boot logo, Pico-8, and Tic-80.)</sub> |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20PICO-8.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20TIC-80.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20Bitsy.png">| Pocket C.H.I.P <br /> <sub>(From top left to bottom right: Boot logo, Pico-8, Tic-80, and Bitsy.)</sub> |
 
 ### Pokemon mini
 | Icon | Description |
