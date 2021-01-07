@@ -5,27 +5,47 @@ Original set of icons on existing game consoles and some variants.
 
 ---
 ## Table of Contents  
+<details>
+<summary>Computers</summary>
+
+* [FM-Towns](#FM-Towns)
+* [Sinclair ZX81](#Sinclair-ZX81)
+* [Ti-99](#Ti-99)
+* [Pocket Chip](#Pocket-CHIP)
+
+</details>
+<details>
+<summary>Consoles</summary>
+
 * [3DO](#3DO)
 * [3DS/2DS](#3DS2DS)
-* [Chip-8](#Chip-8)
+* [Arduboy](#Arduboy)
+* [Capcom Play System](#Capcom-Play-System)
+* [Capcom Play System II](#Capcom-Play-System-II)
 * [Famicom/NES](#FamicomNES)
-* [FM-Towns](#FM-Towns)
 * [Gamate](#Gamate)
 * [Game & Watch](#Game--Watch)
 * [Gameboy/Gameboy Color](#GameboyGameboy-Color)
 * [Gameboy Advance](#Gameboy-Advance)
-* [MS-DOS](#MS-DOS)
 * [Nintendo Switch](#Nintendo-Switch)
 * [Sega Genesis/MegaDrive](#Sega-GenesisMegaDrive)
-* [Sinclair ZX81](#Sinclair-ZX81)
-* [SNES](#SNES)
-* [Ti-99](#Ti-99)
-* [Pocket Chip](#Pocket-CHIP)
+* [Sega 32X/Super 32X](#Sega-32XSuper-32X)
+* [Super Famicom/SNES](#Super-FamicomSNES)
 * [Pokemon mini](#Pokemon-mini)
 * [Vectrex](#Vectrex)
 * [Watara Supervision](#Watara-Supervision)
 * [Wonderswan](#Wonderswan)
 * [Xbox](#Xbox)
+
+</details>
+<details>
+<summary>Software</summary>
+
+* [Chip-8](#Chip-8)
+* [MS-DOS](#MS-DOS)
+
+</details>
+
 * [Credits](#Credits)
 ---
 ### 3DO
@@ -60,6 +80,21 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DS.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSc.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSd.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSe.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSf.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSi.png">| 2DS |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSj.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSh.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSg.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/3DS/2DSk.png">| 2DS <br /><sub> From Top left - Bottom right: <br />Disney, Crystal Green/Yellow, <br /> and Sun & Moon edition</sub>|
+
+### Arduboy
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Arduboy/Arduboy.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Arduboy/Arduboyb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Arduboy/Arduboyc.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Arduboy/Arduboyd.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Arduboy/Arduboye.png">| Arduboy |
+
+### Capcom Play System
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Capcom%20Play%20System/CapcomPlaySystemI.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Capcom%20Play%20System/CapcomPlaySystemChanger.png">|Capcom Play<br /> System<br /> <sub>With/out changer</sub>|
+
+### Capcom Play System II
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Capcom%20Play%20System/CapcomPlaySystemII.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Capcom%20Play%20System/CapcomPlaySystemIIb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Capcom%20Play%20System/CapcomPlaySystemIIc.png">|Capcom Play<br /> System II|
 
 ### Chip-8
 | Icon | Description |
@@ -165,28 +200,24 @@ Original set of icons on existing game consoles and some variants.
 </td></table>
 
 ### Sega Genesis/MegaDrive
-<table>
-<tr><th>Sega Genesis/MegaDrive</th><th>Sega 32X/Super 32X</th></tr><td>
-
 | Icon | Description |
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Sega%20Genesis%20-%20Mega%20Drive/Genesis.png">| Sega Genesis/MegaDrive Model 1 |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Sega%20Genesis%20-%20Mega%20Drive/Genesis2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Sega%20Genesis%20-%20Mega%20Drive/Genesis2b.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Sega%20Genesis%20-%20Mega%20Drive/Genesis2c.png">| Sega Genesis/MegaDrive Model 2 |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Sega%20Genesis%20-%20Mega%20Drive/Genesis3.png">| Sega Genesis/MegaDrive Model 3 |
 
-</td><td>
-
+### Sega 32X/Super 32X
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Sega%20Genesis%20-%20Mega%20Drive/Genesis32X.png">| Sega 32X/Super 32X |
-</td></table>
+
 
 ### Sinclair ZX81
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/ZX81/SinclairZX81.png">| Sinclair ZX81 |
 
-### SNES
+### Super Famicom/NES
 | Icon | Description |
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Nintendo/SNES/SNES.png">| SNES <br /> <sub>Super Nintendo Entertainment <br /> System</sub> |
@@ -199,7 +230,7 @@ Original set of icons on existing game consoles and some variants.
 ### Pocket CHIP
 | Icon | Description |
 | :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20PICO-8.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20TIC-80.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip%20Bitsy.png">| Pocket C.H.I.P <br /> <sub>(From top left to bottom right: Boot logo, Pico-8, Tic-80, and Bitsy.)</sub> |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20PICO-8.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20TIC-80.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip%20Bitsy.png">| Pocket C.H.I.P <br /> <sub>(From top left to bottom right: Boot logo, Pico-8, Tic-80, and Bitsy.)</sub> |
 
 ### Pokemon mini
 | Icon | Description |
