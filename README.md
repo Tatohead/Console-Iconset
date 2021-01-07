@@ -199,7 +199,7 @@ Original set of icons on existing game consoles and some variants.
 ### Pocket CHIP
 | Icon | Description |
 | :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20PICO-8.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20TIC-80.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20Bitsy.png">| Pocket C.H.I.P <br /> <sub>(From top left to bottom right: Boot logo, Pico-8, Tic-80, and Bitsy.)</sub> |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20PICO-8.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20TIC-80.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip%20Bitsy.png">| Pocket C.H.I.P <br /> <sub>(From top left to bottom right: Boot logo, Pico-8, Tic-80, and Bitsy.)</sub> |
 
 ### Pokemon mini
 | Icon | Description |
