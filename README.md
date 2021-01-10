@@ -48,7 +48,7 @@ Original set of icons on existing game consoles and some variants.
 
 <sub>No emulation for these devices</sub>
 
-* [Micro Arcade](#Micro Arcade)
+* [Micro Arcade](#Micro-Arcade)
 
 </details>
 
