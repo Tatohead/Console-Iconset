@@ -213,7 +213,6 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Switch/SwitchLite5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Switch/SwitchLite5b.png">| Switch Lite <br /><sub>Pokémon:  <br />Zacian and Zamazenta</sub> |
 </td></table>
 
-<th>Joystick</th>
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Switch/Switch%20Joysticks.png">| Joystick |
@@ -262,7 +261,7 @@ Original set of icons on existing game consoles and some variants.
 
 | Icon | Description |
 | :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Vectrex/Vectrex.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Vectrex/Vectrex2.png">| Vectrex <br /> <sub>(Includes boot logo)</sub>|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Vectrex/vectrex.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Vectrex/vectrex2.png">| Vectrex <br /> <sub>(Includes boot logo)</sub>|
 
 </td><td>
 
