@@ -213,9 +213,13 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Switch/SwitchLite5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Switch/SwitchLite5b.png">| Switch Lite <br /><sub>Pokémon:  <br />Zacian and Zamazenta</sub> |
 </td></table>
 
+<table>
+<tr><th>Nintendo Joystick</th></tr><td>
+
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Switch/Switch%20Joysticks.png">| Joystick |
+</td></table>
 
 ### Sega Genesis/MegaDrive
 | Icon | Description |
