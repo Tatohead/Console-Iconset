@@ -15,7 +15,7 @@ Original set of icons on existing game consoles and some variants.
 * [Sinclair ZX81](#Sinclair-ZX81)
 * [Pocket Chip](#Pocket-CHIP)
 * [Ti-99](#Ti-99)
-* [Z Machine Infocom]
+* [Z Machine Infocom](#Z-Machine-Infocom)
 
 </details>
 <details>
