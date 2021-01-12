@@ -232,8 +232,8 @@ Original set of icons on existing game consoles and some variants.
 ### NeoGeo Pocket/Color
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeoGeoPocket.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeoGeoPocket2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeoGeoPocket3.png">|NeoGeo Pocket|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeoGeoPocket4.png">|NeoGeo Pocket<br />Color|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket3.png">|NeoGeo Pocket|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket4.png">|NeoGeo Pocket<br />Color|
 
 ### Nintendo 3DS/2DS
 | Icon | Description |
