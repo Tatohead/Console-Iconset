@@ -22,17 +22,23 @@ Original set of icons on existing game consoles and some variants.
 <summary>Consoles</summary>
 
 * [3DO](#3DO)
-* [3DS/2DS](#3DS2DS)
+* [Nintendo 3DS/2DS](#Nintendo-3DS2DS)
 * [Arduboy](#Arduboy)
 * [Capcom Play System](#Capcom-Play-System)
 * [Capcom Play System II](#Capcom-Play-System-II)
+* [Capcom Play System III](#Capcom-Play-System-III)
+* [ColecoVision](#ColecoVision)
 * [Fairchild Channel F](#Fairchild-Channel-F)
 * [Famicom/NES](#FamicomNES)
 * [Gamate](#Gamate)
 * [Game & Watch](#Game--Watch)
 * [Gameboy/Gameboy Color](#GameboyGameboy-Color)
 * [Gameboy Advance](#Gameboy-Advance)
+* [GameCube](#GameCube)
+* [Hartung Game Master](#Hartung-Game-Master)
 * [Milton Bradley MicroVision](#Milton-Bradley-MicroVision)
+* [NeoGeo Pocket/Color](#NeoGeo-PocketColor)
+* [Nintendo DS/DS Lite/DSi](#Nintendo-DSDS-LiteDSi)
 * [Nintendo Switch/Switch Lite](#Nintendo-SwitchSwitch-Lite)
 * [Sega Genesis/MegaDrive](#Sega-GenesisMegaDrive)
 * [Sega 32X/Super 32X](#Sega-32XSuper-32X)
@@ -83,12 +89,6 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/3DO/3DO%20Goldstar%20Alive%20II%20Controller.png">| Goldstar Alive Controller |
 </td></table>
 
-### 3DS/2DS
-| Icon | Description |
-|:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DS.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSc.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSd.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSe.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSf.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSi.png">| Nintendo 2DS |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSj.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSh.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSg.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSk.png">| Nintendo 2DS <br /><sub> From Top left - Bottom right: <br />Disney, Crystal Green/Yellow, <br /> and Sun & Moon edition</sub>|
-
 ### Arduboy
 | Icon | Description |
 |:--:|:--:|
@@ -104,11 +104,22 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemII.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIc.png">|Capcom Play<br /> System II|
 
+### Capcom Play System III
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIII.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIa.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIb2.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIc.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIc2.png">|Capcom Play<br /> System III <br /><sub>Custom Cases</sub>|
+
 ### Chip-8
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Cosmac%20VIP.png">| Cosmac VIP |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Telemac%20Microcomputer.png">| Telemac Microcomputer |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Hp-48G.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Hp-48S.png">|Hp 48G and Hp 48S <br /><sub>Hp 48 series: <br />SX, GX, and G+</sub>|
+
+### ColecoVision
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/ColecoVision/ColecoVision.png">|ColecoVision|
 
 ### Fairchild Channel F
 | Icon | Description |
@@ -185,6 +196,18 @@ Original set of icons on existing game consoles and some variants.
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GBA/Gameboy%20Sp.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GBA/Gameboy%20Sp2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GBA/Gameboy%20Sp6.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GBA/Gameboy%20Sp3.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GBA/Gameboy%20Sp4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GBA/Gameboy%20Sp5.png">| Gameboy Sp |
 
+### GameCube
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GameCube/GameCube.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GameCube/GameCube2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GameCube/GameCube3.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GameCube/GameCube4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GameCube/GameCube5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GameCube/GameCube6.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GameCube/GameCube7.png">|GameCube <br /><sub>Includes: <br />Tales of <br />Symphonia</sub>|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/GameCube/GameCube8.png">|GameCube <br /><sub>Panasonic</sub>|
+
+### Hartung Game Master
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGameMaster.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGameMaster2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGameMaster3.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGameMaster4.png">|Hartung Game <br />Master|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGamePlus.png">|Delplay Game <br />Master <br /><sub>Game Plus <br />variant</sub>|
+
 ### Java
 | Icon | Description |
 |:--:|:--:|
@@ -205,6 +228,23 @@ Original set of icons on existing game consoles and some variants.
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/MS%20DOS/MS-Dos%20IBM.png">| IBM PC DOS <br /><sub>Model 5150</sub> |
+
+### NeoGeo Pocket/Color
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeoGeoPocket.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeoGeoPocket2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeoGeoPocket3.png">|NeoGeo Pocket|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeoGeoPocket4.png">|NeoGeo Pocket<br />Color|
+
+### Nintendo 3DS/2DS
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DS.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSc.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSd.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSe.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSf.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSi.png">| Nintendo 2DS |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSj.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSh.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSg.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSk.png">| Nintendo 2DS <br /><sub> From Top left - Bottom right: <br />Disney, Crystal Green/Yellow, <br /> and Sun & Moon edition</sub>|
+
+### Nintendo DS/DS Lite/DSi
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/NDS/NDS.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/NDS/NDS2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/NDS/NDS3.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/NDS/NDS4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/NDS/NDS5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/NDS/NDS6.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/NDS/NDS7.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/NDS/NDS8.png">|Nintendo <br />DS Lite|
 
 ### Nintendo Switch/Switch Lite
 <table>
@@ -323,8 +363,10 @@ Original set of icons on existing game consoles and some variants.
 ### Credits
 <sub>The following sites were used as a reference.</sub>
 * Console Database [[1]](https://www.consoledatabase.com/)
-* Video Game Console Library [[2]](http://www.videogameconsolelibrary.com/index.html)
+* Console Variations [[2]](https://consolevariations.com/)
 * In The Attic [[3]](http://www.intheattic.co.uk/reviews.htm)
 * Monochrome Effect [[4]](https://monochromeeffect.org/JVCC/)
+* Video Game Console Library [[5]](http://www.videogameconsolelibrary.com/index.html)
+* Video Game Kraken [[6]](http://videogamekraken.com/)
 
 <sub>[Go to ↑ page](#TOP)</sub>
