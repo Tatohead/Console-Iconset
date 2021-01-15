@@ -236,10 +236,21 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket4.png">|NeoGeo Pocket<br />Color|
 
 ### Nintendo 3DS/2DS
+<table>
+<tr><th>3DS</th><th>2DS</th></tr><td>
+
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DS.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSc.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSd.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSe.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSf.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSi.png">| Nintendo 2DS |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/3DS.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/3DSa.png">| Nintendo 3DS|
+
+</td><td>
+
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DS.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSc.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSd.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSe.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSf.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSi.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSl.png">| Nintendo 2DS |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSj.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSh.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSg.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSk.png">| Nintendo 2DS <br /><sub> From Top left - Bottom right: <br />Disney, Crystal Green/Yellow, <br /> and Sun & Moon edition</sub>|
+
+<td></table>
 
 ### Nintendo DS/DS Lite/DSi
 | Icon | Description |
