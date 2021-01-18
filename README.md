@@ -307,7 +307,7 @@ Original set of icons on existing game consoles and some variants.
 ### Ouya
 | Icon | Description |
 | :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Ouya/Ouya.png">|Ouya|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/No%20Emu/Ouya/Ouya.png">|Ouya|
 
 ### Palm OS
 | Icon | Description |
