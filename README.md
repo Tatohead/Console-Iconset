@@ -252,6 +252,8 @@ Original set of icons on existing game consoles and some variants.
 
 </td><td>
 
+| Icon | Description |
+|:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket4.png">|NeoGeo Pocket<br />Color|
 
 </td></table>
