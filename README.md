@@ -8,13 +8,14 @@ Original set of icons on existing game consoles and some variants.
 <details>
 <summary>Computers</summary>
 
-* [Chip-8](#Chip-8)
+* [Chip-8/Chip-48](#Chip-8Chip-48)
 * [FM-Towns](#FM-Towns)
-* [Java](#Java)
+* [Java ME](#Java-ME)
 * [MS-DOS](#MS-DOS)
-* [Sinclair ZX81](#Sinclair-ZX81)
+* [Palm OS](#Palm-OS)
 * [Pocket Chip](#Pocket-CHIP)
-* [Ti-99](#Ti-99)
+* [Sinclair ZX81](#Sinclair-ZX81)
+* [Ti-99/4A](#Ti-994A)
 * [Z Machine Infocom](#Z-Machine-Infocom)
 
 </details>
@@ -40,10 +41,12 @@ Original set of icons on existing game consoles and some variants.
 * [NeoGeo Pocket/Color](#NeoGeo-PocketColor)
 * [Nintendo DS/DS Lite/DSi](#Nintendo-DSDS-LiteDSi)
 * [Nintendo Switch/Switch Lite](#Nintendo-SwitchSwitch-Lite)
+* [Ouya](#Ouya)
+* [Pokemon mini](#Pokemon-mini)
 * [Sega Genesis/MegaDrive](#Sega-GenesisMegaDrive)
 * [Sega 32X/Super 32X](#Sega-32XSuper-32X)
 * [Super Famicom/SNES](#Super-FamicomSNES)
-* [Pokemon mini](#Pokemon-mini)
+* [Uzebox](#Uzebox)
 * [Vectrex](#Vectrex)
 * [Watara Supervision](#Watara-Supervision)
 * [Wonderswan](#Wonderswan)
@@ -109,12 +112,21 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIII.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIa.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIb2.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIc.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIc2.png">|Capcom Play<br /> System III <br /><sub>Custom Cases</sub>|
 
-### Chip-8
+### Chip-8/Chip-48
+<table>
+<tr><th>Chip-8</th><th>Chip-48</th></tr><td>
+
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Cosmac%20VIP.png">| Cosmac VIP |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Telemac%20Microcomputer.png">| Telemac Microcomputer |
+
+</td><td>
+| Icon | Description |
+|:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Hp-48G.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Hp-48S.png">|Hp 48G and Hp 48S <br /><sub>Hp 48 series: <br />SX, GX, and G+</sub>|
+
+</td></table>
 
 ### ColecoVision
 | Icon | Description |
@@ -208,7 +220,7 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGameMaster.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGameMaster2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGameMaster3.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGameMaster4.png">|Hartung Game <br />Master|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGamePlus.png">|Delplay Game <br />Master <br /><sub>Game Plus <br />variant</sub>|
 
-### Java
+### Java ME
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Java/Dell%20Axim%20X30.png">|Dell Axim X30|
@@ -230,10 +242,18 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/MS%20DOS/MS-Dos%20IBM.png">| IBM PC DOS <br /><sub>Model 5150</sub> |
 
 ### NeoGeo Pocket/Color
+<table>
+<tr><th>NeoGeo Pocket</th><th>NeoGeo Pocket <br /> Color</th></tr><td>
+
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket3.png">|NeoGeo Pocket|
+
+</td><td>
+
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket4.png">|NeoGeo Pocket<br />Color|
+
+</td></table>
 
 ### Nintendo 3DS/2DS
 <table>
@@ -250,7 +270,7 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DS.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSc.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSd.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSe.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSf.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSi.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSl.png">| Nintendo 2DS |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSj.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSh.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSg.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSk.png">| Nintendo 2DS <br /><sub> From Top left - Bottom right: <br />Disney, Crystal Green/Yellow, <br /> and Sun & Moon edition</sub>|
 
-<td></table>
+</td></table>
 
 ### Nintendo DS/DS Lite/DSi
 | Icon | Description |
@@ -281,6 +301,27 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Switch/Switch%20Joysticks.png">| Joystick |
 </td></table>
 
+### Ouya
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Ouya/Ouya.png">|Ouya|
+
+### Palm OS
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visor.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visorb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visorc.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visord.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visore.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visorf.png">|Handspring <br />Visor|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Tapwave%20Zodiac.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Tapwave%20Zodiacb.png">|Tapwave Zodiac|
+
+### Pocket CHIP
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20PICO-8.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20TIC-80.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip%20Bitsy.png">| Pocket C.H.I.P <br /> <sub>(From top left to bottom right: <br /> Boot logo, Pico-8, Tic-80, and Bitsy.)</sub> |
+
+### Pokemon mini
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Pokemon%20mini/Pokemini.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Pokemon%20mini/Pokeminib.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Pokemon%20mini/Pokeminic.png">| Pokemon mini |
+
 ### Sega Genesis/MegaDrive
 | Icon | Description |
 | :--: |:--:|
@@ -293,7 +334,6 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega%20Genesis%20-%20Mega%20Drive/Genesis32X.png">| Sega 32X/Super 32X |
 
-
 ### Sinclair ZX81
 | Icon | Description |
 |:--:|:--:|
@@ -304,20 +344,17 @@ Original set of icons on existing game consoles and some variants.
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/SNES/SNES.png">| SNES <br /> <sub>Super Nintendo Entertainment <br /> System</sub> |
 
-### Pocket CHIP
-| Icon | Description |
-| :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20PICO-8.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20TIC-80.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip%20Bitsy.png">| Pocket C.H.I.P <br /> <sub>(From top left to bottom right: <br /> Boot logo, Pico-8, Tic-80, and Bitsy.)</sub> |
-
-### Pokemon mini
-| Icon | Description |
-| :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Pokemon%20mini/Pokemini.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Pokemon%20mini/Pokeminib.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Pokemon%20mini/Pokeminic.png">| Pokemon mini |
-
-### Ti-99
+### Ti-99/4A
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Ti-99/ti-99.png">| Ti-99 |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Ti-99/ti-99.png">| Ti-99/4 <br /><sub>predecessor of Ti-99/4A<sub> |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Ti-99/ti-99b.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Ti-99/ti-99c.png">| Ti-99/4A |
+
+### Uzebox
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Uzebox/UzeboxEX1.png">|Uzebox EX1|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Uzebox/Uzebox.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Uzebox/Uzeboxb.png">|Uzebox <br /><sub>Custom Cases</sub>|
 
 ### Vectrex
 <table>
@@ -325,7 +362,7 @@ Original set of icons on existing game consoles and some variants.
 
 | Icon | Description |
 | :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Vectrex/vectrex.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Vectrex/vectrex2.png">| Vectrex <br /> <sub>(Includes boot logo)</sub>|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Vectrex/vectrex.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Vectrex/vectrex2.png">| Vectrex <br /> <sub>General Computer <br />GCE Vectrex</sub>|
 
 </td><td>
 
@@ -377,7 +414,8 @@ Original set of icons on existing game consoles and some variants.
 * Console Variations [[2]](https://consolevariations.com/)
 * In The Attic [[3]](http://www.intheattic.co.uk/reviews.htm)
 * Monochrome Effect [[4]](https://monochromeeffect.org/JVCC/)
-* Video Game Console Library [[5]](http://www.videogameconsolelibrary.com/index.html)
-* Video Game Kraken [[6]](http://videogamekraken.com/)
+* Spectravideo [[5]](http://www.samdal.com/)
+* Video Game Console Library [[6]](http://www.videogameconsolelibrary.com/index.html)
+* Video Game Kraken [[7]](http://videogamekraken.com/)
 
 <sub>[Go to ↑ page](#TOP)</sub>
