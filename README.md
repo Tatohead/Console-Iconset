@@ -122,6 +122,7 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Telemac%20Microcomputer.png">| Telemac Microcomputer |
 
 </td><td>
+
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Hp-48G.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Hp-48S.png">|Hp 48G and Hp 48S <br /><sub>Hp 48 series: <br />SX, GX, and G+</sub>|
