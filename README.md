@@ -41,7 +41,6 @@ Original set of icons on existing game consoles and some variants.
 * [NeoGeo Pocket/Color](#NeoGeo-PocketColor)
 * [Nintendo DS/DS Lite/DSi](#Nintendo-DSDS-LiteDSi)
 * [Nintendo Switch/Switch Lite](#Nintendo-SwitchSwitch-Lite)
-* [Ouya](#Ouya)
 * [Pokemon mini](#Pokemon-mini)
 * [Sega Genesis/MegaDrive](#Sega-GenesisMegaDrive)
 * [Sega 32X/Super 32X](#Sega-32XSuper-32X)
@@ -59,6 +58,7 @@ Original set of icons on existing game consoles and some variants.
 <sub>No emulation for these devices</sub>
 
 * [Micro Arcade](#Micro-Arcade)
+* [Ouya](#Ouya)
 
 </details>
 
