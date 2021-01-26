@@ -8,15 +8,20 @@ Original set of icons on existing game consoles and some variants.
 <details>
 <summary>Computers</summary>
 
+* [Amstrad CPC](#Amstrad-CPC)
+* [Apple II](#Apple-II)
 * [Chip-8/Chip-48](#Chip-8Chip-48)
+* [Commodore 64](#Commodore-64)
 * [FM-Towns](#FM-Towns)
 * [Java ME](#Java-ME)
 * [MS-DOS](#MS-DOS)
 * [Palm OS](#Palm-OS)
 * [Pocket Chip](#Pocket-CHIP)
 * [Sinclair ZX81](#Sinclair-ZX81)
+* [Spectravideo SVI-3x8](#Spectravideo-SVI-3x8)
 * [Ti-99/4A](#Ti-994A)
 * [Z Machine Infocom](#Z-Machine-Infocom)
+* [ZX Spectrum](#ZX-Spectrum)
 
 </details>
 <details>
@@ -37,11 +42,13 @@ Original set of icons on existing game consoles and some variants.
 * [Gameboy Advance](#Gameboy-Advance)
 * [GameCube](#GameCube)
 * [Hartung Game Master](#Hartung-Game-Master)
+* [Intellivision](#Intellivision)
 * [Milton Bradley MicroVision](#Milton-Bradley-MicroVision)
 * [NeoGeo Pocket/Color](#NeoGeo-PocketColor)
 * [Nintendo DS/DS Lite/DSi](#Nintendo-DSDS-LiteDSi)
 * [Nintendo Switch/Switch Lite](#Nintendo-SwitchSwitch-Lite)
 * [Pokemon mini](#Pokemon-mini)
+* [Sega Astro City](#Sega-Astro-City)
 * [Sega Genesis/MegaDrive](#Sega-GenesisMegaDrive)
 * [Sega 32X/Super 32X](#Sega-32XSuper-32X)
 * [Super Famicom/SNES](#Super-FamicomSNES)
@@ -92,6 +99,16 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/3DO/3DO%20Goldstar%20Alive%20II%20Controller.png">| Goldstar Alive Controller |
 </td></table>
 
+### Amstrad CPC
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computer/Amstrad%20CPC/Amstrad%20CPC.png/"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computer/Amstrad%20CPC/Amstrad%20CPCb.png/">|Amstrad CPC|
+
+### Apple II
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computer/Apple%20II/Apple%20IIb.png/"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computer/Apple%20II/Apple%20IIc.png/">|Apple II|
+
 ### Arduboy
 | Icon | Description |
 |:--:|:--:|
@@ -133,6 +150,9 @@ Original set of icons on existing game consoles and some variants.
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/ColecoVision/ColecoVision.png">|ColecoVision|
+
+### Commodore 64
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/C64/C64.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/C64/C64b.png">|Commodore 64|
 
 ### Fairchild Channel F
 | Icon | Description |
@@ -220,6 +240,11 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGameMaster.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGameMaster2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGameMaster3.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGameMaster4.png">|Hartung Game <br />Master|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Hartung%20Game%20Master/HartungGamePlus.png">|Delplay Game <br />Master <br /><sub>Game Plus <br />variant</sub>|
+
+### Intellivision
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Intellivision/Intellivision.png">|Intellivision|
 
 ### Java ME
 | Icon | Description |
@@ -325,12 +350,18 @@ Original set of icons on existing game consoles and some variants.
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Pokemon%20mini/Pokemini.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Pokemon%20mini/Pokeminib.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Pokemon%20mini/Pokeminic.png">| Pokemon mini |
 
+### Sega Astro City
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega/Astro%20City/SegaAstroCity.png">|Sega Astro City|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega/Astro%20City/SegaAstroCityMini.png">|Sega Astro City <br /><sub>Mini version</sub>|
+
 ### Sega Genesis/MegaDrive
 | Icon | Description |
 | :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega%20Genesis%20-%20Mega%20Drive/Genesis.png">| Sega Genesis/MegaDrive Model 1 |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega%20Genesis%20-%20Mega%20Drive/Genesis2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega%20Genesis%20-%20Mega%20Drive/Genesis2b.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega%20Genesis%20-%20Mega%20Drive/Genesis2c.png">| Sega Genesis/MegaDrive Model 2 |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega%20Genesis%20-%20Mega%20Drive/Genesis3.png">| Sega Genesis/MegaDrive Model 3 |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega/Sega%20Genesis%20-%20Mega%20Drive/Genesis.png">| Sega Genesis/MegaDrive Model 1 |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega/Sega%20Genesis%20-%20Mega%20Drive/Genesis2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega/Sega%20Genesis%20-%20Mega%20Drive/Genesis2b.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega/Sega%20Genesis%20-%20Mega%20Drive/Genesis2c.png">| Sega Genesis/MegaDrive Model 2 |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega/Sega%20Genesis%20-%20Mega%20Drive/Genesis3.png">| Sega Genesis/MegaDrive Model 3 |
 
 ### Sega 32X/Super 32X
 | Icon | Description |
@@ -341,6 +372,11 @@ Original set of icons on existing game consoles and some variants.
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/ZX81/SinclairZX81.png">| Sinclair ZX81 |
+
+### Spectravideo SVI-3x8
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/SVI-3x8/SpectravideoSVI-318.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/SVI-3x8/SpectravideoSVI-328.png">|Spectravideo SVI-3x8 <br /> <sub>Left to Right: <br /> SVI-318 and SVI-328</sub>|
 
 ### Super Famicom/NES
 | Icon | Description |
@@ -409,6 +445,11 @@ Original set of icons on existing game consoles and some variants.
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Z%20Machine%20Infocom/DECmate.png">|DECmate|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Z%20Machine%20Infocom/Epson%20Qx-10.png">|Epson Qx-10|
+
+### ZX Spectrum
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/ZX%20Spectrum/ZXSpectrum.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/ZX%20Spectrum/ZXSpectrumb.png">|ZX Spectrum|
 
 ---
 ### Credits
