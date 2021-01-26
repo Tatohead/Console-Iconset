@@ -102,12 +102,12 @@ Original set of icons on existing game consoles and some variants.
 ### Amstrad CPC
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computer/Amstrad%20CPC/Amstrad%20CPC.png/"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computer/Amstrad%20CPC/Amstrad%20CPCb.png/">|Amstrad CPC|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Amstrad%20CPC/Amstrad%20CPC.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Amstrad%20CPC/Amstrad%20CPCb.png">|Amstrad CPC|
 
 ### Apple II
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computer/Apple%20II/Apple%20IIb.png/"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computer/Apple%20II/Apple%20IIc.png/">|Apple II|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIc.png">|Apple II|
 
 ### Arduboy
 | Icon | Description |
@@ -152,6 +152,8 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/ColecoVision/ColecoVision.png">|ColecoVision|
 
 ### Commodore 64
+| Icon | Description |
+|:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/C64/C64.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/C64/C64b.png">|Commodore 64|
 
 ### Fairchild Channel F
@@ -366,7 +368,7 @@ Original set of icons on existing game consoles and some variants.
 ### Sega 32X/Super 32X
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega%20Genesis%20-%20Mega%20Drive/Genesis32X.png">| Sega 32X/Super 32X |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega/Sega%20Genesis%20-%20Mega%20Drive/Genesis32X.png">| Sega 32X/Super 32X |
 
 ### Sinclair ZX81
 | Icon | Description |
