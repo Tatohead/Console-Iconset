@@ -19,6 +19,7 @@ Original set of icons on existing game consoles and some variants.
 * [Pocket Chip](#Pocket-CHIP)
 * [Sinclair ZX81](#Sinclair-ZX81)
 * [Spectravideo SVI-3x8](#Spectravideo-SVI-3x8)
+* [Symbian](#Symbian)
 * [Ti-99/4A](#Ti-994A)
 * [Z Machine Infocom](#Z-Machine-Infocom)
 * [ZX Spectrum](#ZX-Spectrum)
@@ -72,6 +73,103 @@ Original set of icons on existing game consoles and some variants.
 * [Credits](#Credits)
 
 ---
+## Computers
+
+### Amstrad CPC
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Amstrad%20CPC/Amstrad%20CPC.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Amstrad%20CPC/Amstrad%20CPCb.png">|Amstrad CPC|
+
+### Apple II
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIc.png">|Apple II|
+
+### Chip-8/Chip-48
+<table>
+<tr><th>Chip-8</th><th>Chip-48</th></tr><td>
+
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Cosmac%20VIP.png">| Cosmac VIP |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Telemac%20Microcomputer.png">| Telemac Microcomputer |
+
+</td><td>
+
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Hp-48G.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Hp-48S.png">|Hp 48G and Hp 48S <br /><sub>Hp 48 series: <br />SX, GX, and G+</sub>|
+
+</td></table>
+
+### Commodore 64
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/C64/C64.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/C64/C64b.png">|Commodore 64|
+
+### FM-Towns
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/FM%20Towns/Fujitsu%20FM-Towns%202F.png">| Fujitsu FM-Towns 2F |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/FM%20Towns/Fujitsu%20FM-Towns.png">| Fujitsu FM-Towns |
+
+### Java ME
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Java/Dell%20Axim%20X30.png">|Dell Axim X30|
+
+### MS-DOS
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/MS%20DOS/MS-Dos%20IBM.png">| IBM PC DOS <br /><sub>Model 5150</sub> |
+
+### Palm OS
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visor.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visorb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visorc.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visord.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visore.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visorf.png">|Handspring <br />Visor|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Tapwave%20Zodiac.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Tapwave%20Zodiacb.png">|Tapwave Zodiac|
+
+### Pocket CHIP
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20PICO-8.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20TIC-80.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip%20Bitsy.png">| Pocket C.H.I.P <br /> <sub>(From top left to bottom right: <br /> Boot logo, Pico-8, Tic-80, and Bitsy.)</sub> |
+
+### Sinclair ZX81
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/ZX81/SinclairZX81.png">| Sinclair ZX81 |
+
+### Spectravideo SVI-3x8
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/SVI-3x8/SpectravideoSVI-318.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/SVI-3x8/SpectravideoSVI-328.png">|Spectravideo SVI-3x8 <br /> <sub>Left to Right: <br /> SVI-318 and SVI-328</sub>|
+
+### Symbian
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Symbian/Symbian%20Nokia%20Belle.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Symbian/Symbian%20Nokia%20Belle2.png">|Symbian Nokia Belle|
+
+
+### Ti-99/4A
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Ti-99/ti-99.png">| Ti-99/4 <br /><sub>predecessor of Ti-99/4A<sub> |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Ti-99/ti-99b.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Ti-99/ti-99c.png">| Ti-99/4A |
+
+### Z Machine Infocom
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Z%20Machine%20Infocom/DECmate.png">|DECmate|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Z%20Machine%20Infocom/Epson%20Qx-10.png">|Epson Qx-10|
+
+### ZX Spectrum
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/ZX%20Spectrum/ZXSpectrum.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/ZX%20Spectrum/ZXSpectrumb.png">|ZX Spectrum <br /><sub>Paired w/ <br />Roadstar monitor</sub>|
+
+---
+## Consoles
+
 ### 3DO
 <table>
 <tr><th>Console</th><th>Controller</th></tr><td>
@@ -99,16 +197,6 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/3DO/3DO%20Goldstar%20Alive%20II%20Controller.png">| Goldstar Alive Controller |
 </td></table>
 
-### Amstrad CPC
-| Icon | Description |
-|:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Amstrad%20CPC/Amstrad%20CPC.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Amstrad%20CPC/Amstrad%20CPCb.png">|Amstrad CPC|
-
-### Apple II
-| Icon | Description |
-|:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIc.png">|Apple II|
-
 ### Arduboy
 | Icon | Description |
 |:--:|:--:|
@@ -129,32 +217,10 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIII.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIa.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIb2.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIc.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Capcom%20Play%20System/CapcomPlaySystemIIIc2.png">|Capcom Play<br /> System III <br /><sub>Custom Cases</sub>|
 
-### Chip-8/Chip-48
-<table>
-<tr><th>Chip-8</th><th>Chip-48</th></tr><td>
-
-| Icon | Description |
-|:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Cosmac%20VIP.png">| Cosmac VIP |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Telemac%20Microcomputer.png">| Telemac Microcomputer |
-
-</td><td>
-
-| Icon | Description |
-|:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Hp-48G.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Hp-48S.png">|Hp 48G and Hp 48S <br /><sub>Hp 48 series: <br />SX, GX, and G+</sub>|
-
-</td></table>
-
 ### ColecoVision
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/ColecoVision/ColecoVision.png">|ColecoVision|
-
-### Commodore 64
-| Icon | Description |
-|:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/C64/C64.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/C64/C64b.png">|Commodore 64|
 
 ### Fairchild Channel F
 | Icon | Description |
@@ -186,12 +252,6 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Famicom-NES/Sharp%20NES%20controller.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Famicom-NES/Sharp%20NES%20controllerb.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Famicom-NES/Sharp%20NES%20controllerc.png">| Sharp NES controller |
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/Famicom-NES/Nintendo%20AV%20Famicom%20Controller.png">| Nintendo AV <br /> Famicom Controller |
 </td></table>
-
-### FM-Towns
-| Icon | Description |
-|:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/FM%20Towns/Fujitsu%20FM-Towns%202F.png">| Fujitsu FM-Towns 2F |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/FM%20Towns/Fujitsu%20FM-Towns.png">| Fujitsu FM-Towns |
 
 ### Gamate
 | Icon | Description |
@@ -248,11 +308,6 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Intellivision/Intellivision.png">|Intellivision|
 
-### Java ME
-| Icon | Description |
-|:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Java/Dell%20Axim%20X30.png">|Dell Axim X30|
-
 ### Micro Arcade
 | Icon | Description |
 |:--:|:--:|
@@ -263,11 +318,6 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVisiona.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVisionb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVisionc.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVisiond.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVisione.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVisionf.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVisiong.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVisionh.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVisioni.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVisionj.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVisionk.png">|Milton Bradley <br />MicroVision|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVision1.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVision2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVision3.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVision4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVision5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVision6.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVision7.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Milton%20Bradley%20MicroVision/MiltonBradleyMicroVision8.png">|Milton Bradley <br />MicroVision <br /><sub>Colored variant</sub>|
-
-### MS-DOS
-| Icon | Description |
-|:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/MS%20DOS/MS-Dos%20IBM.png">| IBM PC DOS <br /><sub>Model 5150</sub> |
 
 ### NeoGeo Pocket/Color
 <table>
@@ -336,17 +386,6 @@ Original set of icons on existing game consoles and some variants.
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/No%20Emu/Ouya/Ouya.png">|Ouya|
 
-### Palm OS
-| Icon | Description |
-| :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visor.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visorb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visorc.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visord.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visore.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Handspring%20Visorf.png">|Handspring <br />Visor|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Tapwave%20Zodiac.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Palm%20OS/Tapwave%20Zodiacb.png">|Tapwave Zodiac|
-
-### Pocket CHIP
-| Icon | Description |
-| :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20PICO-8.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/PocketChip%20TIC-80.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Pocket%20CHIP/Pocketchip%20Bitsy.png">| Pocket C.H.I.P <br /> <sub>(From top left to bottom right: <br /> Boot logo, Pico-8, Tic-80, and Bitsy.)</sub> |
-
 ### Pokemon mini
 | Icon | Description |
 | :--: |:--:|
@@ -370,26 +409,10 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega/Sega%20Genesis%20-%20Mega%20Drive/Genesis32X.png">| Sega 32X/Super 32X |
 
-### Sinclair ZX81
-| Icon | Description |
-|:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/ZX81/SinclairZX81.png">| Sinclair ZX81 |
-
-### Spectravideo SVI-3x8
-| Icon | Description |
-|:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/SVI-3x8/SpectravideoSVI-318.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/SVI-3x8/SpectravideoSVI-328.png">|Spectravideo SVI-3x8 <br /> <sub>Left to Right: <br /> SVI-318 and SVI-328</sub>|
-
 ### Super Famicom/NES
 | Icon | Description |
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/SNES/SNES.png">| SNES <br /> <sub>Super Nintendo Entertainment <br /> System</sub> |
-
-### Ti-99/4A
-| Icon | Description |
-|:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Ti-99/ti-99.png">| Ti-99/4 <br /><sub>predecessor of Ti-99/4A<sub> |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Ti-99/ti-99b.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Ti-99/ti-99c.png">| Ti-99/4A |
 
 ### Uzebox
 | Icon | Description |
@@ -441,17 +464,6 @@ Original set of icons on existing game consoles and some variants.
 | Icon | Description |
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Microsoft/Xbox%20original/xbox.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Microsoft/Xbox%20original/xboxb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Microsoft/Xbox%20original/xboxc.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Microsoft/Xbox%20original/xboxd.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Microsoft/Xbox%20original/xboxe.png">| Xbox <br /><sub>original</sub>|
-
-### Z Machine Infocom
-| Icon | Description |
-| :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Z%20Machine%20Infocom/DECmate.png">|DECmate|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Z%20Machine%20Infocom/Epson%20Qx-10.png">|Epson Qx-10|
-
-### ZX Spectrum
-| Icon | Description |
-| :--: |:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/ZX%20Spectrum/ZXSpectrum.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/ZX%20Spectrum/ZXSpectrumb.png">|ZX Spectrum|
 
 ---
 ### Credits
