@@ -29,6 +29,8 @@ Original set of icons on existing game consoles and some variants.
 <summary>Consoles</summary>
 
 * [3DO](#3DO)
+* [Atari 5200](#Atari-5200)
+* [Atari 7800](#Atari-7800)
 * [Nintendo 3DS/2DS](#Nintendo-3DS2DS)
 * [Arduboy](#Arduboy)
 * [Capcom Play System](#Capcom-Play-System)
@@ -52,6 +54,7 @@ Original set of icons on existing game consoles and some variants.
 * [Sega Astro City](#Sega-Astro-City)
 * [Sega Genesis/MegaDrive](#Sega-GenesisMegaDrive)
 * [Sega 32X/Super 32X](#Sega-32XSuper-32X)
+* [Sega Naomi](#Sega-Naomi)
 * [Super Famicom/SNES](#Super-FamicomSNES)
 * [Uzebox](#Uzebox)
 * [Vectrex](#Vectrex)
@@ -83,7 +86,7 @@ Original set of icons on existing game consoles and some variants.
 ### Apple II
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIc.png">|Apple II|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleII.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIc.png">|Apple II|
 
 ### Chip-8/Chip-48
 <table>
@@ -105,7 +108,7 @@ Original set of icons on existing game consoles and some variants.
 ### Commodore 64
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/C64/C64.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/C64/C64b.png">|Commodore 64|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/C64/C64c.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/C64/C64.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/C64/C64b.png">|Commodore 64|
 
 ### FM-Towns
 | Icon | Description |
@@ -201,6 +204,17 @@ Original set of icons on existing game consoles and some variants.
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Arduboy/Arduboy.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Arduboy/Arduboyb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Arduboy/Arduboyc.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Arduboy/Arduboyd.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Arduboy/Arduboye.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Arduboy/Arduboyf.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Arduboy/Arduboyg.png">| Arduboy |
+
+### Atari 5200
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Atari/Atari%205200/Atari5200.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Atari/Atari%205200/Atari5200b.png">|Atari 5200|
+
+### Atari 7800
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Atari/Atari%207800/Atari7800.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Atari/Atari%207800/Atari7800b.png">|Atari 7800|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Atari/Atari%207800/Atari7800cNoahBushell.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Atari/Atari%207800/Atari7800dNoahBushell.png">|Atari 7800 </br><sub>Noah Bushell </br> variant</sub>|
 
 ### Capcom Play System
 | Icon | Description |
@@ -341,7 +355,7 @@ Original set of icons on existing game consoles and some variants.
 
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/3DS.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/3DSa.png">| Nintendo 3DS|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/3DS.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/3DSa.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/3DSb.png">| Nintendo 3DS|
 
 </td><td>
 
@@ -408,6 +422,12 @@ Original set of icons on existing game consoles and some variants.
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega/Sega%20Genesis%20-%20Mega%20Drive/Genesis32X.png">| Sega 32X/Super 32X |
+
+### Sega Naomi
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega/Sega%20Naomi/SegaNaomi.png">| Sega Naomi |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Sega/Sega%20Naomi/SegaNaomi2.png">| Sega Naomi 2 <br /> <sub>Successor <br /> of Naomi</sub>|
 
 ### Super Famicom/NES
 | Icon | Description |
