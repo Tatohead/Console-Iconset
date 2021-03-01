@@ -214,7 +214,7 @@ Original set of icons on existing game consoles and some variants.
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Atari/Atari%207800/Atari7800.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Atari/Atari%207800/Atari7800b.png">|Atari 7800|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Atari/Atari%207800/Atari7800cNoahBushnell.png"> <https://github.com/Tatohead/Console-Iconset/blob/main/Console/Atari/Atari%207800/Atari7800dNoahBushnell.png">|Atari 7800 </br><sub>Noah Bushell </br> variant</sub>|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Atari/Atari%207800/Atari7800cNoahBushnell.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Atari/Atari%207800/Atari7800dNoahBushnell.png">|Atari 7800 </br><sub>Noah Bushell </br> variant</sub>|
 
 ### Capcom Play System
 | Icon | Description |
