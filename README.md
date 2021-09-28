@@ -372,7 +372,7 @@ Original set of icons on existing game consoles and some variants.
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-3.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-6.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-7.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-8.png"> |Nintendo <br />64|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64HyundaiComboy64.png">|Nintendo <br />64<br \><sub> Hyundai Comboy edition</sub>
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64HyundaiComboy64.png">|Nintendo <br />64<br /><sub> Hyundai Comboy edition</sub>
 
 ### Nintendo 3DS/2DS
 <table>
