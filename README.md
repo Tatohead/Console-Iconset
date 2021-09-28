@@ -10,7 +10,8 @@ Original set of icons on existing game consoles and some variants.
 
 * [Amstrad CPC](#Amstrad-CPC)
 * [Apple II](#Apple-II)
-* [Atari](#Atari)
+* [Atari 400](#Atari-400)
+* [Atari 800](#Atari-800)
 * [Chip-8/Chip-48](#Chip-8Chip-48)
 * [Commodore 64](#Commodore-64)
 * [FM-Towns](#FM-Towns)
@@ -91,10 +92,15 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleII.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIc.png">|Apple II|
 
-### Atari
+### Atari 400
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Atari/Atari400.png">|Atari 400|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Atari/Atari800.png">|Atari 800|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Atari/Atari400.png">|Atari 400|
+
+### Atari 800
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Atari/Atari800.png">|Atari 800|
 
 ### Chip-8/Chip-48
 <table>
@@ -360,12 +366,13 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket4b.png">|NeoGeo Pocket<br />Color|
 
+</td></table>
+
 ### Nintendo 64
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-3.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-6.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-7.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-8.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64HyundaiComboy64.png"> <br />|Nintendo <br />64|
-
-</td></table>
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-3.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-6.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-7.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-8.png"> |Nintendo <br />64|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64HyundaiComboy64.png">|Nintendo <br />64<br \><sub> Hyundai Comboy edition</sub>
 
 ### Nintendo 3DS/2DS
 <table>
