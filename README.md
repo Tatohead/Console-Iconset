@@ -10,6 +10,7 @@ Original set of icons on existing game consoles and some variants.
 
 * [Amstrad CPC](#Amstrad-CPC)
 * [Apple II](#Apple-II)
+* [Atari](#Atari)
 * [Chip-8/Chip-48](#Chip-8Chip-48)
 * [Commodore 64](#Commodore-64)
 * [FM-Towns](#FM-Towns)
@@ -37,6 +38,7 @@ Original set of icons on existing game consoles and some variants.
 * [Capcom Play System II](#Capcom-Play-System-II)
 * [Capcom Play System III](#Capcom-Play-System-III)
 * [ColecoVision](#ColecoVision)
+* [Emerson Arcadia](#Emerson-Arcadia)
 * [Fairchild Channel F](#Fairchild-Channel-F)
 * [Famicom/NES](#FamicomNES)
 * [Gamate](#Gamate)
@@ -48,6 +50,7 @@ Original set of icons on existing game consoles and some variants.
 * [Intellivision](#Intellivision)
 * [Milton Bradley MicroVision](#Milton-Bradley-MicroVision)
 * [NeoGeo Pocket/Color](#NeoGeo-PocketColor)
+* [Nintendo 64](#Nintendo-64)
 * [Nintendo DS/DS Lite/DSi](#Nintendo-DSDS-LiteDSi)
 * [Nintendo Switch/Switch Lite](#Nintendo-SwitchSwitch-Lite)
 * [Pokemon mini](#Pokemon-mini)
@@ -87,6 +90,11 @@ Original set of icons on existing game consoles and some variants.
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleII.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIb.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Apple%20II/AppleIIc.png">|Apple II|
+
+### Atari
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Atari/Atari400.png">|Atari 400|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Atari/Atari800.png">|Atari 800|
 
 ### Chip-8/Chip-48
 <table>
@@ -236,6 +244,11 @@ Original set of icons on existing game consoles and some variants.
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/ColecoVision/ColecoVision.png">|ColecoVision|
 
+### Emerson Arcadia
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Emerson%20Arcadia/EmersonArcadia2001.png">|Emerson Arcadia|
+
 ### Fairchild Channel F
 | Icon | Description |
 |:--:|:--:|
@@ -346,6 +359,11 @@ Original set of icons on existing game consoles and some variants.
 | Icon | Description |
 |:--:|:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Snk/NeoGeoPocket/NeogeoPocket4b.png">|NeoGeo Pocket<br />Color|
+
+### Nintendo 64
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-3.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-6.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-7.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-8.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64HyundaiComboy64.png"> <br />|Nintendo <br />64|
 
 </td></table>
 
