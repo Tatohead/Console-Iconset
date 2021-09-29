@@ -1,7 +1,9 @@
 # Console-Iconset <a name="Top"></a>
 Original set of icons on existing game consoles and some variants.
 ##### Notice:
-<sub>The objects may apppear slightly off compared to the physical object due to lack of references. Not all consoles/variants will be listed since they have yet to be made. Some are enlisted together due to running the same software or high compatibility. Phones are categorized in computers. I will not post them on other sites for personal reasons. However, feel free to use these icons in projects just don't claim the icons as your own work is all I ask.</sub>
+<sub>The objects may apppear slightly off compared to the physical object due to lack of references. Not all consoles/variants will be listed since they have yet to be made. Some are enlisted together due to running the same software or high compatibility. Phones are categorized in computers. I will not post them on other sites for personal reasons. However, feel free to use these icons in projects.</sub>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W16DW20)
 
 ---
 ## Table of Contents  
