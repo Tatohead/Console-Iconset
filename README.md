@@ -1,7 +1,12 @@
 # Console-Iconset <a name="Top"></a>
 Original set of icons on existing game consoles and some variants.
+
+
+[![Donate](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-yellow.svg)](https://ko-fi.com/W7W16DW20)
+![GitHub last commit](https://img.shields.io/github/last-commit/Tatohead/Console-Iconset?color=red)
+![Visitor Badge](https://visitor-badges.glitch.me?username=Tatohead&repo=Console-Iconset&label=Visitors&style=flat&color=%23457BFF&contentType=svg)
 ##### Notice:
-<sub>The objects may apppear slightly off compared to the physical object due to lack of references. Not all consoles/variants will be listed since they have yet to be made. Some are enlisted together due to running the same software or high compatibility. Phones are categorized in computers. I will not post them on other sites for personal reasons. However, feel free to use these icons in projects just don't claim the icons as your own work is all I ask.</sub>
+<sub>The objects may apppear slightly off compared to the physical object due to lack of references. Not all consoles/variants will be listed since they have yet to be made. Some are enlisted together due to running the same software or high compatibility. Phones are categorized in computers. I will not post them on other sites for personal reasons. However, feel free to use these icons in projects.</sub>
 
 ---
 ## Table of Contents  
@@ -33,7 +38,7 @@ Original set of icons on existing game consoles and some variants.
 * [3DO](#3DO)
 * [Atari 5200](#Atari-5200)
 * [Atari 7800](#Atari-7800)
-* [Nintendo 3DS/2DS](#Nintendo-3DS2DS)
+
 * [Arduboy](#Arduboy)
 * [Capcom Play System](#Capcom-Play-System)
 * [Capcom Play System II](#Capcom-Play-System-II)
@@ -51,9 +56,11 @@ Original set of icons on existing game consoles and some variants.
 * [Intellivision](#Intellivision)
 * [Milton Bradley MicroVision](#Milton-Bradley-MicroVision)
 * [NeoGeo Pocket/Color](#NeoGeo-PocketColor)
+* [Nintendo 3DS/2DS](#Nintendo-3DS2DS)
 * [Nintendo 64](#Nintendo-64)
 * [Nintendo DS/DS Lite/DSi](#Nintendo-DSDS-LiteDSi)
 * [Nintendo Switch/Switch Lite](#Nintendo-SwitchSwitch-Lite)
+* [P/ECE / PIECE](#PECE--PIECE)
 * [Pokemon mini](#Pokemon-mini)
 * [Sega Astro City](#Sega-Astro-City)
 * [Sega Genesis/MegaDrive](#Sega-GenesisMegaDrive)
@@ -108,8 +115,8 @@ Original set of icons on existing game consoles and some variants.
 
 | Icon | Description |
 |:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Cosmac%20VIP.png">| Cosmac VIP |
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Telemac%20Microcomputer.png">| Telemac Microcomputer |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Cosmac%20VIP.png">| Cosmac VIP <br /><sub>(Video Interface Processor)</sub> |
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Computers/Chip-8/Chip-8%20Telemac%20Microcomputer.png">| Telemac 1800 <br /><sub>Microcomputer</sub> |
 
 </td><td>
 
@@ -368,12 +375,6 @@ Original set of icons on existing game consoles and some variants.
 
 </td></table>
 
-### Nintendo 64
-| Icon | Description |
-|:--:|:--:|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-3.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-6.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-7.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-8.png"> |Nintendo <br />64|
-|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64HyundaiComboy64.png">|Nintendo <br />64<br /><sub> Hyundai Comboy edition</sub>
-
 ### Nintendo 3DS/2DS
 <table>
 <tr><th>3DS</th><th>2DS</th></tr><td>
@@ -390,6 +391,12 @@ Original set of icons on existing game consoles and some variants.
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSj.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSh.png"> <br /> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSg.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/3DS/2DSk.png">| Nintendo 2DS <br /><sub> From Top left - Bottom right: <br />Disney, Crystal Green/Yellow, <br /> and Sun & Moon edition</sub>|
 
 </td></table>
+
+### Nintendo 64
+| Icon | Description |
+|:--:|:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-2.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-3.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-4.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-5.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-6.png"> <br /><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-7.png"> <img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64-8.png"> |Nintendo <br />64|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Nintendo/N64/N64HyundaiComboy64.png">|Nintendo <br />64<br /><sub> Hyundai Comboy edition</sub>
 
 ### Nintendo DS/DS Lite/DSi
 | Icon | Description |
@@ -424,6 +431,12 @@ Original set of icons on existing game consoles and some variants.
 | Icon | Description |
 | :--: |:--:|
 |<img src="https://github.com/Tatohead/Console-Iconset/blob/main/No%20Emu/Ouya/Ouya.png">|Ouya|
+
+### P/ECE / PIECE
+| Icon | Description |
+| :--: |:--:|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Aquaplus/PIECE_P-ECE_by_Aquaplus%20PME-001.png">|P/ECE (PIECE) <br /><sub>Aquaplus<br />PME-001</sub>|
+|<img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Aquaplus/PIECE_P-ECE_by_Aquaplus1.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Aquaplus/PIECE_P-ECE_by_Aquaplus2.png"><img src="https://github.com/Tatohead/Console-Iconset/blob/main/Console/Aquaplus/PIECE_P-ECE_by_Aquaplus3.png">|P/ECE (PIECE) <br /><sub>Aquaplus</sub>|
 
 ### Pokemon mini
 | Icon | Description |
